@@ -5,7 +5,9 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 A simple, clean React Native app to display a list of comments, allow users to rate them with stars (using `react-native-ratings`), and persist those ratings using Redux and local storage (AsyncStorage).
 
-![App Screenshot](./src/assets/screenshot.png)
+![App Screenshot One](./src/assets/screenShotOne.png)
+![App Screenshot Two](./src/assets/screenShotTwo.png)
+
 
 ---
 
