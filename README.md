@@ -1,5 +1,16 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
+# ⭐ React Native Comment App
+
+A simple, clean React Native app to display a list of comments, allow users to rate them with stars (using `react-native-ratings`), and persist those ratings using Redux and local storage (AsyncStorage).
+
+![App Screenshot](./src/assets/screenshot.png)
+
+---
+
+
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
